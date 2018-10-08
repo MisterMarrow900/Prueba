@@ -1,6 +1,4 @@
 # Prueba 3
-
-<!DOCTYPE html>
 <html>
 <body>
 
